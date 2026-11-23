@@ -22,6 +22,9 @@ The frontend communicates with the backend through REST APIs, and data is stored
 
 ---
 
+## Project Demo
+https://github.com/user-attachments/assets/e6bddb13-44ce-496b-bc4f-f1376f736003
+
 ## ✨ Features
 
 ### 🔐 Authentication & Authorization

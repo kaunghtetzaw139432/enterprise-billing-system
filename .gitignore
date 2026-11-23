@@ -1,0 +1,97 @@
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# Linux
+# =========================
+*~
+.nfs*
+
+# =========================
+# Node.js / React
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.production.local
+
+# =========================
+# Java / Maven / Spring Boot
+# =========================
+target/
+*.class
+*.jar
+*.war
+
+# Maven wrapper files should NOT be ignored
+# Keep mvnw, mvnw.cmd and .mvn/wrapper/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# IDEs
+# =========================
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+.cache/
+
+# =========================
+# Database
+# =========================
+*.sql.bak
+*.sqlite
+*.db
+
+# =========================
+# Secrets / Credentials
+# =========================
+.env
+application-local.properties
+application-secret.properties
+
+# =========================
+# Screen Recordings
+# =========================
+*.mp4
+*.mkv
+*.mov
+*.webm
+
+# =========================
+# Python (if applicable)
+# =========================
+__pycache__/
+*.pyc
+venv/
+.env
